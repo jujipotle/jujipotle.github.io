@@ -12,7 +12,7 @@ My AI safety-focused research interests stem from my involvement in the [AI Safe
 
 On the empirical side, I’m interested in research surrounding the deployment of AI in real-world scenarios. Today, we have computers that can beat humans at chess, Dota 2, and poker, yet fail to perform simple tasks in the real world such as making a peanut butter and jelly sandwich. This can be especially dangerous in scenarios such as autonomous vehicles or healthcare. Thus, I’m interested in research areas such as reinforcement learning and sensorimotor learning that address the challenges that come with deploying toy AI models in real-world environments.
 
-Besides AI, I'm also interested in theory of computation, algorithmic game theory, and data visualization.
+Besides AI, I'm also interested in theoretical CS, algorithmic game theory, and data visualization.
 
 I also love to build things I'd find useful. I think it's wonderful that using code, I can build products that actually benefit people. My passion for building cool, impactful products has led me to participate in several coding competitions and hackathons, where I've met tons of amazing people and learned how much more is out there in the world of software development. Check out some projects I've built in my [projects](/projects) tab.
 
@@ -32,7 +32,7 @@ Taking a Chinese language class my freshman fall made me appreciate how much I c
 ## Hobbies
 In my free time, I love to play volleyball and Spikeball, run (obligatory [Strava](https://www.strava.com/athletes/jujipotle) plug), and gym.
 
-I'm also obsessed with time tracking and eating Chipotle. In fact, my claim to fame is having won a [TikTok](https://www.tiktok.com/@jujipotle/video/6822354408777567494) competition sponsored by Chipotle!
+I'm also obsessed with [time tracking](/projects/timetracker) and eating Chipotle. In fact, my claim to fame is having won a [TikTok](https://www.tiktok.com/@jujipotle/video/6822354408777567494) competition sponsored by Chipotle!
 
 ## Reading
 
@@ -49,3 +49,11 @@ Let's be [Goodreads](https://www.goodreads.com/jujipotle) friends!
 
 ##### Currently Reading
 - *One Hundred Years of Solitude* by Gabriel García Márquez
+
+## Friends
+Some of my friends' personal websites:
+- [Cynthia Chen](https://chenxcynthia.github.io/)
+- [Franklin Wang](https://frankxwang.github.io/)
+- [Jeffrey Wang](https://jeffreygwang.com/)
+- [Lisa Lin](https://lisalin.dev/)
+- [Tanay Biradar](https://tanaybiradar.com/)

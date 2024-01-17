@@ -20,7 +20,7 @@ During the middle of my first-year fall, I realized my life was spiraling out of
     An early version of my timetracker.
 </div>
 
-Since then, my timetracker has gone through multiple iterations. The current version of my timetracker operates on fifteen minute intervals and is complete with automated formulas that tally up my weekly time spent on categories like classes, exercise, sleep, fun, etc.
+Since then, my timetracker has gone through multiple iterations. The current version of my timetracker operates on fifteen minute intervals and is complete with automated formulas that tally up my weekly time spent on categories like classes, exercise, sleep, etc.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
