@@ -10,7 +10,7 @@ I’m passionate about AI interpretability research—understanding how AI model
 
 In high school, I did competitive programming and math (USACO Platinum, AIME). I’ve also competed in hackathons and enjoy building side projects that are both technically interesting and impactful. Check out some of my work in the [projects](/projects) tab.
 
-Beyond AI interpretability, I’m interested in reinforcement learning, language model training. I also enjoy learning about data visualization, algorithmic game theory, literature, and writing.
+I also enjoy learning about other fields in AI, data visualization, algorithmic game theory, literature, and writing.
 
 ## Communities
 - [Book Club @ Harvard](https://bit.ly/harvardbookclub) (Founder)
@@ -22,9 +22,6 @@ Beyond AI interpretability, I’m interested in reinforcement learning, language
 - [Harvard AI Safety Student Team](https://haist.ai/)
 - [Harvard College Christian Students](https://www.harvardchristians.com/)
 - [Taiwanese Cultural Society](https://harvardtcs.github.io/)
-
-## Hobbies
-Volleyball, Roundnet (Spikeball), gym, [time tracking](/projects/timetracker), eating Chipotle.
 
 ## Reading
 Let’s be [Goodreads](https://www.goodreads.com/jujipotle) friends! If you're a Harvard student, join [Book Club @ Harvard](https://bit.ly/harvardbookclub)!
